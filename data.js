@@ -65,7 +65,7 @@
     {
         "nombre": "Cartel",
         "fecha": "2023",
-        "signo": "Fotografia",
+        "signo": "Editorial",
         "foto": "https://github.com/Franirribarrat/dno096-08/blob/main/portafolio_07.png?raw=true",
         "github": "https://github.com/franirribarrat"
     }
