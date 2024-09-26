@@ -1,6 +1,7 @@
 [
     {
         "nombre": "Libro Aves Lafkenche",
+        "descripcion": "Consiste en diseñar un libro de aves dirigido a niñas y niños desde 1° a 6° básico de las escuelas rurales de la comuna de Teodoro Schmidt.Todo el curso competía para que su diseño fuera seleccionado.",
         "fecha": "2018",
         "signo": "Editorial",
         "foto": "https://github.com/Franirribarrat/dno096-08/blob/main/portafolio_010.png?raw=true",
